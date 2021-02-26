@@ -688,7 +688,7 @@
     
     
     .main{ 
-        background-image: url('todolist.gif');
+        background-image: url('media/todolist.gif');
         background-repeat: no-repeat;
         background-size: cover;
         background-position: center;
@@ -705,16 +705,10 @@
     }  
     #maintext{
         display: none;
-    }
-    
-    #main1:hover, #main2:hover, #main3:hover, #main4:hover, #main5:hover{
-        background-color: #533763; 
-        background-image: none;
-        cursor: pointer;
-    }
+    } 
     
     #main2{ 
-        background-image: url('cvp.gif');
+        background-image: url('media/cvp.gif');
         background-repeat: no-repeat;
         background-size: cover;
         background-position: center;
@@ -722,7 +716,7 @@
     } 
     
     #main3{ 
-        background-image: url('coffee.png');
+        background-image: url('media/coffee.png');
         background-repeat: no-repeat;
         background-size: cover;
         background-position: center;
@@ -730,7 +724,7 @@
     } 
     
     #main4{ 
-        background-image: url('portfolio.png');
+        background-image: url('media/portfolio.png');
         background-repeat: no-repeat;
         background-size: cover;
         background-position: center;
@@ -738,7 +732,7 @@
     } 
     
     #main5{ 
-        background-image: url('abox.gif');
+        background-image: url('media/abox.gif');
         background-repeat: no-repeat;
         background-size: cover;
         background-position: center;

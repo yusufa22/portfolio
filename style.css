@@ -404,13 +404,14 @@
     
     footer{
         background-color: white;
-        height: 3rem;
+        height: 3rem; 
+        font-family: 'Andika New Basic', sans-serif;
+        color: #533763;  
         display: flex;
         justify-content: center;
         align-items: center;
-        font-family: 'Andika New Basic', sans-serif;
-        color: #533763;
-    } 
+    }  
+    
 }
 
 
@@ -853,11 +854,11 @@
     
     footer{
         background-color: white;
-        height: 3rem; 
-        display: flex;
-        justify-content: center;
-        align-items: center;
+        height: 3rem;  
         font-family: 'Andika New Basic', sans-serif;
         color: #533763;
-    }  
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }   
 }

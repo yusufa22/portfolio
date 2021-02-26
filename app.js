@@ -1,3 +1,31 @@
+if(window.innerWidth <= 1315 && window.innerWidth >= 1165){
+    document.querySelector('#projectssvg').style.top = '1890px'
+}
+else if(window.innerWidth <= 1165 && window.innerWidth >= 980){
+    document.querySelector('#projectssvg').style.top = '1920px'
+}
+else if(window.innerWidth <= 980){
+    document.querySelector('#projectssvg').style.top = '1955px'
+} 
+
+window.addEventListener('resize', (e)=>{
+    console.log('resize')
+    if(window.innerWidth <= 1315 && window.innerWidth >= 1165){
+        document.querySelector('#projectssvg').style.top = '1890px'
+    }
+    else if(window.innerWidth <= 1165 && window.innerWidth >= 980){
+        document.querySelector('#projectssvg').style.top = '1920px'
+    }
+    else if(window.innerWidth <= 980){
+        document.querySelector('#projectssvg').style.top = '1955px'
+    } 
+
+    else if(window.innerWidth >= 1315){
+        document.querySelector('#projectssvg').style.top = '1850px'
+    }
+})
+
+
 for(i=0; i<document.getElementsByClassName('menuoptionsli').length; i++){
     document.getElementsByClassName('menuoptionsli')[i].addEventListener('click', (e)=>{ 
         for(i=0; i<document.getElementsByClassName('menuoptionsli').length; i++){
@@ -5,9 +33,7 @@ for(i=0; i<document.getElementsByClassName('menuoptionsli').length; i++){
         }
         e.target.style.backgroundColor = '#2d1e35'
     })
-}
-
-console.log(document.getElementsByClassName('main-container')[0].innerHTML.substring(17, 25))
+} 
 
 for(i=0; i<document.getElementsByClassName('projectsmenuitems').length; i++){
     document.getElementsByClassName('projectsmenuitems')[i].addEventListener('click', (e)=>{ 

@@ -75,4 +75,4 @@ for(i=0; i<document.getElementsByClassName('projectsmenuitems').length; i++){
     })
 }
 
-console.log(document.querySelector('.g-recaptcha').children[0])
+setTimeout(()=>{console.log(document.querySelector('.g-recaptcha').children[0])}, 5000)

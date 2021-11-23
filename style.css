@@ -303,6 +303,16 @@
         color: transparent;
     } 
     
+   
+   #main5{ 
+        background-image: url('media/react.gif');
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center;
+        color: transparent;
+    }
+   
+   
     #section4{ 
         background-color: #533763;  
         height: 700px;

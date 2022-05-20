@@ -57,7 +57,7 @@
     #section1{     
         background-color:transparent;
         margin: 0rem 4rem 0rem 4rem;
-        height: 770px;
+        height: 120vh;
     }
     
     
@@ -74,8 +74,8 @@
         float: left; 
         font-family: 'Andika New Basic', sans-serif; 
         margin-left: 3vw;
-        margin-top: 8rem; 
-        width: 30vw;
+        margin-top: 9.5rem; 
+        width: fit-content;
         font-size: 1.2rem;   
     } 
     
@@ -111,7 +111,7 @@
         height: 30rem;  
         width: 30rem;
         float: right;
-        margin: 5vh 0 0 0; 
+        margin: 7vh 0 0 0; 
     }
     
     
@@ -121,7 +121,7 @@
     
     #profile{
         width: 20rem; 
-        height: 20rem;
+        height: 25rem;
         position: absolute;
         top: 80rem;
         left: 37vw;
@@ -158,7 +158,7 @@
     
     #projectssvg{
         width: 20rem; 
-        height: 20rem;
+        height: 26rem;
         position: absolute; 
         left: 38vw; 
     }

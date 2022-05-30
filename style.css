@@ -1,3 +1,4 @@
+
 @media (min-width: 957px){
     *{
         padding: 0;
@@ -44,7 +45,7 @@ background-image: url("data:image/svg+xml,%3Csvg width='100' height='100' viewBo
     }
     
     .menuoptionsli:hover{
-        background-color: #221729;
+        background-color: #212b3a;
         -moz-outline-radius: 2rem; 
         padding: 0.2rem 0.4rem 0.2rem 0.4rem; 
         border-radius: 2rem;
@@ -108,10 +109,10 @@ background-image: url("data:image/svg+xml,%3Csvg width='100' height='100' viewBo
     }
     
     #cartoon{
-        height: 30rem;  
-        width: 30rem;
+        height: 40%;  
+        width: 40%;
         float: right;
-        margin: 7vh 0 0 0; 
+        margin: 10rem 0 0 0; 
     }
     
     
@@ -455,8 +456,8 @@ background-image: url("data:image/svg+xml,%3Csvg width='100' height='100' viewBo
     }
     
     body{ 
-        background-color: #533763;
-        background-image: url("data:image/svg+xml,%3Csvg width='100' height='100' viewBox='0 0 100 100' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath d='M11 18c3.866 0 7-3.134 7-7s-3.134-7-7-7-7 3.134-7 7 3.134 7 7 7zm48 25c3.866 0 7-3.134 7-7s-3.134-7-7-7-7 3.134-7 7 3.134 7 7 7zm-43-7c1.657 0 3-1.343 3-3s-1.343-3-3-3-3 1.343-3 3 1.343 3 3 3zm63 31c1.657 0 3-1.343 3-3s-1.343-3-3-3-3 1.343-3 3 1.343 3 3 3zM34 90c1.657 0 3-1.343 3-3s-1.343-3-3-3-3 1.343-3 3 1.343 3 3 3zm56-76c1.657 0 3-1.343 3-3s-1.343-3-3-3-3 1.343-3 3 1.343 3 3 3zM12 86c2.21 0 4-1.79 4-4s-1.79-4-4-4-4 1.79-4 4 1.79 4 4 4zm28-65c2.21 0 4-1.79 4-4s-1.79-4-4-4-4 1.79-4 4 1.79 4 4 4zm23-11c2.76 0 5-2.24 5-5s-2.24-5-5-5-5 2.24-5 5 2.24 5 5 5zm-6 60c2.21 0 4-1.79 4-4s-1.79-4-4-4-4 1.79-4 4 1.79 4 4 4zm29 22c2.76 0 5-2.24 5-5s-2.24-5-5-5-5 2.24-5 5 2.24 5 5 5zM32 63c2.76 0 5-2.24 5-5s-2.24-5-5-5-5 2.24-5 5 2.24 5 5 5zm57-13c2.76 0 5-2.24 5-5s-2.24-5-5-5-5 2.24-5 5 2.24 5 5 5zm-9-21c1.105 0 2-.895 2-2s-.895-2-2-2-2 .895-2 2 .895 2 2 2zM60 91c1.105 0 2-.895 2-2s-.895-2-2-2-2 .895-2 2 .895 2 2 2zM35 41c1.105 0 2-.895 2-2s-.895-2-2-2-2 .895-2 2 .895 2 2 2zM12 60c1.105 0 2-.895 2-2s-.895-2-2-2-2 .895-2 2 .895 2 2 2z' fill='%23704b84' fill-opacity='0.4' fill-rule='evenodd'/%3E%3C/svg%3E");
+        background-color: #33465d;
+background-image: url("data:image/svg+xml,%3Csvg width='100' height='100' viewBox='0 0 100 100' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath d='M11 18c3.866 0 7-3.134 7-7s-3.134-7-7-7-7 3.134-7 7 3.134 7 7 7zm48 25c3.866 0 7-3.134 7-7s-3.134-7-7-7-7 3.134-7 7 3.134 7 7 7zm-43-7c1.657 0 3-1.343 3-3s-1.343-3-3-3-3 1.343-3 3 1.343 3 3 3zm63 31c1.657 0 3-1.343 3-3s-1.343-3-3-3-3 1.343-3 3 1.343 3 3 3zM34 90c1.657 0 3-1.343 3-3s-1.343-3-3-3-3 1.343-3 3 1.343 3 3 3zm56-76c1.657 0 3-1.343 3-3s-1.343-3-3-3-3 1.343-3 3 1.343 3 3 3zM12 86c2.21 0 4-1.79 4-4s-1.79-4-4-4-4 1.79-4 4 1.79 4 4 4zm28-65c2.21 0 4-1.79 4-4s-1.79-4-4-4-4 1.79-4 4 1.79 4 4 4zm23-11c2.76 0 5-2.24 5-5s-2.24-5-5-5-5 2.24-5 5 2.24 5 5 5zm-6 60c2.21 0 4-1.79 4-4s-1.79-4-4-4-4 1.79-4 4 1.79 4 4 4zm29 22c2.76 0 5-2.24 5-5s-2.24-5-5-5-5 2.24-5 5 2.24 5 5 5zM32 63c2.76 0 5-2.24 5-5s-2.24-5-5-5-5 2.24-5 5 2.24 5 5 5zm57-13c2.76 0 5-2.24 5-5s-2.24-5-5-5-5 2.24-5 5 2.24 5 5 5zm-9-21c1.105 0 2-.895 2-2s-.895-2-2-2-2 .895-2 2 .895 2 2 2zM60 91c1.105 0 2-.895 2-2s-.895-2-2-2-2 .895-2 2 .895 2 2 2zM35 41c1.105 0 2-.895 2-2s-.895-2-2-2-2 .895-2 2 .895 2 2 2zM12 60c1.105 0 2-.895 2-2s-.895-2-2-2-2 .895-2 2 .895 2 2 2z' fill='%2342556c' fill-opacity='0.87' fill-rule='evenodd'/%3E%3C/svg%3E");
     }
     
     html {
@@ -493,7 +494,7 @@ background-image: url("data:image/svg+xml,%3Csvg width='100' height='100' viewBo
      }
     
     .menuoptionsli:hover{
-        background-color: #221729;
+        background-color: #212b3a;
         -moz-outline-radius: 2rem; 
         padding: 0.2rem 0.4rem 0.2rem 0.4rem; 
         border-radius: 2rem;
@@ -532,18 +533,18 @@ background-image: url("data:image/svg+xml,%3Csvg width='100' height='100' viewBo
     .button{ 
         text-decoration: none;    
         border-radius: 10rem;
-        border: solid #2a1c33 1px;
+        border: solid #212b3a 1px;
         padding: 0.5rem 1rem 0.5rem 1rem;
         color: white; 
-        background-color: #2a1c33;
+        background-color: #212b3a;
         transition: 0.3s; 
     }
     
     
     .button:hover{ 
-        border: solid #221729 1px;
+        border: solid #1a222e 1px;
         color: white; 
-        background-color: #221729;
+        background-color: #1a222e;
     }
     
     #pbutton{
@@ -578,7 +579,7 @@ background-image: url("data:image/svg+xml,%3Csvg width='100' height='100' viewBo
         background-color:white; 
         text-align: center;
         padding: 0 3.5rem 3rem 3.5rem; 
-        color: #533763;
+        color: #33465d;
         border: none;
         outline: none;
     }
@@ -588,7 +589,7 @@ background-image: url("data:image/svg+xml,%3Csvg width='100' height='100' viewBo
         font-family: 'Andika New Basic', sans-serif;
         text-align: center;
         font-size: 2rem;
-        color: #533763;
+        color: #33465d;
         padding-top: 2rem;
         padding-bottom: 2rem;
         background-color: white;
@@ -614,7 +615,7 @@ background-image: url("data:image/svg+xml,%3Csvg width='100' height='100' viewBo
         font-family: 'Andika New Basic', sans-serif;
         text-align: center;
         font-size: 2rem;
-        color: #533763;
+        color: #33465d;
         padding-top: 2rem;
         padding-bottom: 3rem;
         background-color: white;
@@ -622,7 +623,7 @@ background-image: url("data:image/svg+xml,%3Csvg width='100' height='100' viewBo
     
     #projectsmenu{
         list-style-type: none;
-        border:solid #533763 1px; 
+        border:solid #33465d 1px; 
         border-radius: 2rem; 
         font-size: 2vw;
         width: 90vw;
@@ -636,13 +637,13 @@ background-image: url("data:image/svg+xml,%3Csvg width='100' height='100' viewBo
         display: inline;
         background-color: transparent;
         border-radius: 0.5rem;
-        color: #533763; 
+        color: #33465d; 
         transition: 0.3s;
         width: fit-content;
     }
     
     .projectsmenuitems:hover{  
-        background-color: #533763; 
+        background-color: #33465d; 
         cursor: pointer;
         color: white; 
         border-radius: 2rem;
@@ -655,8 +656,8 @@ background-image: url("data:image/svg+xml,%3Csvg width='100' height='100' viewBo
     .main-button{
         padding: 0.25rem 0.75rem; 
         margin: 0.5rem 0rem 1rem 0rem; 
-        background-color: #533763; 
-        border: solid #533763 1px; 
+        background-color: #33465d; 
+        border: solid #33465d 1px; 
         border-radius: 1vh; 
         color: white; 
         cursor: pointer; 
@@ -666,8 +667,8 @@ background-image: url("data:image/svg+xml,%3Csvg width='100' height='100' viewBo
 
     .main-button:hover{
         background-color: white;
-        color: #533763;
-        border: solid #533763 1px; 
+        color: #33465d;
+        border: solid #33465d 1px; 
     }
 
     .main-container{
@@ -689,7 +690,7 @@ background-image: url("data:image/svg+xml,%3Csvg width='100' height='100' viewBo
     }
 
     .main-title{
-        color: #533763;
+        color: #33465d;
     }
 
     .main-paragraph, .main-title, .main-tt{ 
@@ -755,7 +756,7 @@ background-image: url("data:image/svg+xml,%3Csvg width='100' height='100' viewBo
     } 
     
     #section4{ 
-        background-color: #533763;   
+        background-color: #33465d;   
         padding-bottom: 2rem;
     }
     
@@ -803,7 +804,7 @@ background-image: url("data:image/svg+xml,%3Csvg width='100' height='100' viewBo
     } 
     
     #section5{ 
-        background-color: #533763; 
+        background-color: #33465d; 
         display: flex;
         flex-direction: column;
         justify-content: center; 
@@ -828,7 +829,7 @@ background-image: url("data:image/svg+xml,%3Csvg width='100' height='100' viewBo
     
     #namebox,#messagebox,#emailbox{
         border: solid white 3px;
-        background-color: #533763;
+        background-color: #33465d;
         border-radius: 0.4rem; 
         margin: 0.5rem;
         color: white;
@@ -845,8 +846,8 @@ background-image: url("data:image/svg+xml,%3Csvg width='100' height='100' viewBo
     }
 
     #submit{
-        border: solid #2a1c33 2px;
-        background-color: #2a1c33;
+        border: solid #1a222e 2px;
+        background-color: #1a222e;
         color: white;
         padding: 0.5rem 1rem 0.5rem 1rem;
         border-radius: 10rem;
@@ -858,14 +859,14 @@ background-image: url("data:image/svg+xml,%3Csvg width='100' height='100' viewBo
         text-align: center;
         font-family: 'Andika New Basic', sans-serif;
         margin-top: 1rem;
-        font-size: 3vw;
+        font-size: 1rem;
     } 
     
     footer{
         background-color: white;
         height: 3rem;  
         font-family: 'Andika New Basic', sans-serif;
-        color: #533763;
+        color: #33465d;
         display: flex;
         align-items: center;
         justify-content: center;
